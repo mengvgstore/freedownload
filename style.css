@@ -204,9 +204,10 @@ margin-left: 60px;
 }
 .example {
   text-align: right;
-
 }
-
+.example1{
+  text-align: center;
+}
 #myInput {	
   background-position: 10px 12px;
   background-repeat: no-repeat;
